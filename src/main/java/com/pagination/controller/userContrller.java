@@ -99,7 +99,7 @@ public class userContrller {
 	 * }
 	 */
 	
-	
+
 	
 	@GetMapping("showData")
 	public String showData(Model model,
